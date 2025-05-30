@@ -39,17 +39,6 @@ python main.py
 
 ---
 
-## 🗂️ Project Structure
-
-```
-project_root/
-├── main.py           # Main application file (PyQt5 GUI)
-├── config.json       # Default configuration for extensions and ignore patterns
-└── code_for_gpt.txt  # Output file (optional)
-```
-
----
-
 ## ⚙️ Configuration
 
 On first run, a `config.json` file is created. It includes:
