@@ -1,0 +1,13 @@
+{
+  "included_extensions": ["py", "ts", "js", "cs", "gd", "html", "css"],
+  "ignored_patterns": ["node_modules", "dist", "venv", ".git", "__pycache__"],
+  "language_mapping": {
+    "Python": ["py"],
+    "TypeScript": ["ts", "tsx"],
+    "JavaScript": ["js", "jsx"],
+    "C#": ["cs"],
+    "Godot (GDScript)": ["gd"],
+    "HTML": ["html"],
+    "CSS": ["css", "scss"]
+  }
+}
