@@ -1,4 +1,4 @@
-# 📦 GPT Code Exporter
+# 📦 Code Exporter
 
 A PyQt5-based desktop application that helps you extract source code from a selected folder while allowing filtering by file extension, exclusion of ignored folders (like `.git`, `node_modules`, etc.), and dynamic preview of selected files. You can copy the extracted code to the clipboard or save it into a single text file.
 
